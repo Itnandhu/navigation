@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">navigation</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_myaccount">My Account</string>
+    <string name="menu_mysubscriptions">My Subscriptions</string>
+    <string name="menu_shopbycategory">Shop By Category</string>
+    <string name="menu_notification">Notification</string>
+    <string name="menu_rateourapp">Rate our app</string>
+    <string name="menu_needhelp">Need Help</string>
+    <string name="menu_share">share</string>
+    <string name="menu_logout">Logout</string>
+    <string name="aavin">Aavin</string>
+    <string name="pasteurised_toned_milk">Pasteurised Toned Milk</string>
+    <string name="_500_ml_pouch">500 ml Pouch</string>
+    <string name="_20">$20</string>
+    <string name="subscribe_20">SUBSCRIBE@20</string>
+    <string name="buy_once">BUY ONCE</string>
+    <string name="note_service_charges_are_per_delivery_and_is_changed_at_the_time_of_packing_the_order_all_orders_to_be_delivered_on_a_given_day_are_consolidated_into_a_single_delivery_at_the_time_of_packing">NOTE:Service charges are per delivery and is changed at the time of packing the order. All orders to be delivered on a given day are consolidated into a single delivery at the time of packing</string>
+</resources>
